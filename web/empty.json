@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "meta": {
+    "dataset": "empty",
+    "label": "空白档案",
+    "source": null,
+    "description": "课后把这一份复制成 data.json 再填写。不要把 example.json 里的词或时长抄进来。"
+  },
+  "learner": {
+    "accent": null
+  },
+  "items": [],
+  "sessions": []
+}
